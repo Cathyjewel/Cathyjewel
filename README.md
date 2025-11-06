@@ -1,4 +1,4 @@
-## I am Cathereen Ezuma�
+## I am Cathereen Ezuma
 - 🌱 I'm interested in Data Analysis. Visualization and Explorative Analysis
 - 👯 I’m looking to collaborate on Data Analysis projects
 - 🤔 I’m looking to help companies transform their data into actionable strategies
